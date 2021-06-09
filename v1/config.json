@@ -1,0 +1,46 @@
+{
+  "introWhisper": {
+    "label": "Welcome to Olive Helps",
+    "header": "Getting Started",
+    "body": "Welcome to Olive Helps; I'm Olive. Let me give you a quick tour.\n\nLet's start by checking out the Loop Library",
+    "image": "oh-onboarding_intro.gif"
+  },
+  "topicWhispers": [
+    {
+      "label": "Loop Library",
+      "header": "Browse and add Loops in the Loop Library",
+      "body": "The Loop Library is home to all the Loops that make Olive Helps so helpful. Think of Loops as apps, and the Loop Library as an app store. You can browse the Loop Library and install the Loops that are most useful to you.",
+      "image": "oh-onboarding_loop-library.gif"
+    },
+    {
+      "label": "Sidenote",
+      "header": "Take notes to the next level with Sidenote",
+      "body": "Sidenote is a smart note tool that displays notes when you need them. You can define keywords or set time-based reminders to trigger your notes. No more yellow stickies around your monitor. You can access Sidenote from the menu bar below.",
+      "image": "oh-onboarding_sidenote.gif"
+    },
+    {
+      "label": "Whispers",
+      "header": "Learn how Olive communicates with Whispers",
+      "body": "The card you’re reading right now is called a Whisper. It’s how Loops deliver information to you. Depending on the Loop, Whispers can be triggered by a search, or by detecting certain actions like copying text to your clipboard, typing a string of text, switching to a different window, etc.",
+      "image": "oh-onboarding_whispers.gif"
+    },
+    {
+      "label": "Search",
+      "header": "Using Search to surface a world of information",
+      "body": "The search bar allows you to search for information in Loops or in your Sidenotes. Try typing “/help” into the search bar. You can also use the Omnibar to search Loops. Simply pull it up by pressing Ctrl+O (Windows) or Cmd+O (Mac).",
+      "image": "oh-onboarding_search.gif"
+    },
+    {
+      "label": "Sidebar Settings",
+      "header": "Customize your experience with Sidebar Settings",
+      "body": "With the Sidebar Settings, you can control the placement of the Olive Helps sidebar on your monitor. You can also control the “volume” of your Whisper notifications. For example, you can opt to have the sidebar automatically open with every new Whisper, or choose instead to receive a more subtle nudge via a flash of color at the edge of your screen",
+      "image": "oh-onboarding_sidebar-settings.gif"
+    },
+    {
+      "label": "Aptitudes",
+      "header": "Find out how Olive uses Aptitudes to deliver information",
+      "body": "Aptitudes are what power Loops. Different Loops use different Aptitudes to trigger Whispers or perform other actions. You can identify what Aptitudes a Loop uses by reviewing the Loop description in the Loop Library. One example is the Clipboard Aptitude, which can be used to display a corresponding Whisper when you copy certain text to your clipboard. For example, try copying this to your clipboard: **Clipboard Aptitude Test**",
+      "image": "oh-onboarding_aptitudes.gif"
+    }
+  ]
+}
