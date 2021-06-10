@@ -46,6 +46,7 @@
   "aptitudeWhisper": {
     "label": "Olive Helps: Clipboard Aptitude Test",
     "header": "See the Clipboard Aptitude in action",
-    "body": "By performing that copy action, you’ve successfully triggered the Clipboard Aptitude to generate this Whisper. Some Loops might use this Aptitude to display information about the text you’ve copied. For example, a Provider Directory Loop might detect if you’ve copied a healthcare provider’s name, and show you a Whisper containing information about that provider."
+    "body": "By performing that copy action, you’ve successfully triggered the Clipboard Aptitude to generate this Whisper. Some Loops might use this Aptitude to display information about the text you’ve copied. For example, a Provider Directory Loop might detect if you’ve copied a healthcare provider’s name, and show you a Whisper containing information about that provider.",
+    "image": ""
   }
 }
