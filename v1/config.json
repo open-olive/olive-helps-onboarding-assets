@@ -42,5 +42,11 @@
       "body": "Aptitudes are what power Loops. Different Loops use different Aptitudes to trigger Whispers or perform other actions. You can identify what Aptitudes a Loop uses by reviewing the Loop description in the Loop Library. One example is the Clipboard Aptitude, which can be used to display a corresponding Whisper when you copy certain text to your clipboard. For example, try copying this to your clipboard: **Clipboard Aptitude Test**",
       "image": "oh-onboarding_aptitudes.gif"
     }
-  ]
+  ],
+  "aptitudeWhisper": {
+    "label": "Olive Helps: Clipboard Aptitude Test",
+    "header": "See the Clipboard Aptitude in action",
+    "body": "By performing that copy action, you’ve successfully triggered the Clipboard Aptitude to generate this Whisper. Some Loops might use this Aptitude to display information about the text you’ve copied. For example, a Provider Directory Loop might detect if you’ve copied a healthcare provider’s name, and show you a Whisper containing information about that provider.",
+    "image": ""
+  }
 }
