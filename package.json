@@ -1,0 +1,15 @@
+{
+  "name": "olive-helps-onboarding-assets",
+  "version": "2.0.0",
+  "description": "Provides static assets to be utilized by the Onboarding loop for Olive Helps",
+  "author": {
+    "name": "Olive AI, Inc."
+  },
+  "copyright": "Copyright (C) 2022 Olive AI, Inc. All rights reserved.",
+  "license": "ISC",
+  "keywords": [],
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
